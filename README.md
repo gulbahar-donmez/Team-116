@@ -45,7 +45,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 ## Product Backlog URL
 
 [Asana Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154) (Sprint 2'de Notion geçiş yapılmıştır.)  
-[Notion Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154)
+[Notion Backlog Board](https://www.notion.so/232030b633d280fe80d6e7b199436fd8?v=232030b633d2808a92c9000c2642ee88&source=copy_link)
 
 
 ---
