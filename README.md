@@ -281,10 +281,10 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 
 - **Sprint Gözden Geçirilmesi:**
    * Ürünün gelişmesine verdiği katkılardan dolayı Product Owner ekip kararı ile Gülbahar olarak değitirildi.
-   * Gerçek zamanlı analiz özelliği başarıyla hayata geçirildi. Ancak, kullanıcıya görsel veya sesli uyarı gönderme özelliği henüz eklenmedi. Bu sprintte, bu özelliğin geliştirilmesine odaklanılacaktır.
+   * Gerçek zamanlı analiz özelliği başarıyla hayata geçirildi. Ancak, kullanıcıya görsel veya sesli uyarı gönderme özelliği henüz eklenmedi. 3. sprintte, bu özelliğin geliştirilmesine odaklanılacaktır.
    * İnsan modeli üzerinden kullanıcının duruş bozukluğu yaşadığı bölgelerin 3B model üzerinden gösterilmesi için 23 farklı bölge ayırt edildi.
    * Kullanıcıların duruşlarını fotoğraf üzerinden analiz etme özelliği(posture_analyzer) başarıyla tamamlandı. Bu özellik, omuz üstü ve tüm vücut olarak 2 farklı analizi gerçekleştirmektedir.
-   * Kullanıcılara, analiz öncesinde nalizlerin doğruluğunu artırmak amacıyla uygulanan Kalibrasyon sayfası tasarımı tamamlandı
+   * Kullanıcılara, analiz öncesinde analizlerin doğruluğunu artırmak amacıyla uygulanan Kalibrasyon sayfası tasarımı tamamlandı
    * Kullanıcı panelindeki gelişim grafiklerinin ve raporlama özelliklerinin daha detaylı hale getirilmesi kararlaştırıldı.
    * Dark Mode ve Light Mode seçenekleri eklenerek kullanıcıya kişiselleştirilmiş bir deneyim sunuldu.
    * Kullanıcıların sorularına daha hızlı ve doğru yanıtlar verebilmek amacıyla, RAG (Retrieval-Augmented Generation) tabanlı bir chatbot oluşturuldu.
