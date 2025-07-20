@@ -287,7 +287,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
    * Kullanıcılara, analiz öncesinde analizlerin doğruluğunu artırmak amacıyla uygulanan Kalibrasyon sayfası tasarımı tamamlandı
    * Kullanıcı panelindeki gelişim grafiklerinin ve raporlama özelliklerinin daha detaylı hale getirilmesi kararlaştırıldı.
    * Dark Mode ve Light Mode seçenekleri eklenerek kullanıcıya kişiselleştirilmiş bir deneyim sunuldu.
-   * Kullanıcıların sorularına daha hızlı ve doğru yanıtlar verebilmek amacıyla, RAG (Retrieval-Augmented Generation) tabanlı bir chatbot oluşturuldu.
+   * Kullanıcıların sorularına daha hızlı ve doğru yanıtlar verebilmek amacıyla, Google Gemini Embedding 001 modeli kullanılarak oluşturulan embedding vektörleri ile desteklenen Retrieval-Augmented Generation (RAG) mimarisi üzerine, chatbot inşa edilmiştir.
      
 
 - **Sprint Gözden Geçirme Katılımcıları:**
@@ -297,8 +297,9 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
    * Kullanıcı deneyimini artırmak için görsel ve sesli uyarı sisteminin geliştirilmesine karar verildi.(Good_Posture ve Bad_Posture)
    * Kullanıcıya daha etkili geri bildirim sağlamak için 3B modelleme çalışmaları ile analiz sonuçları arasında entegrasyon çalışmaları yürütülecek.
    * Canlı analiz sonuçlarının veritabanına kaydedilmesi(Live_Session) ve kullanıcıya sunulması için gerekli altyapı oluşturulacak. Bu özellik tamamlandığında, kullanıcı "Sonuçlarım" ekranından görsel ile analizde olduğu gibi canlı analiz sonuçlarını da görüntüleyip PDF rapor indirebilecektir.
+   * RAG mimarisi ile kurulan chatbot'un entegrasyon çalışmaları yürütülecektir.
    * Uygulamanın genel performans optimizasyonu ve canlıya alma (deployment) süreçleri için son hazırlıkların yapılmasına karar verildi.
-   * Gemini
+
 </details>
 
 ---
