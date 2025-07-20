@@ -180,7 +180,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
   ---
 
 <details>
-    <summary><h2>App Screenshots</h2></summary>
+    <summary><h2>Web Screenshots</h2></summary>
 
 ### Login Page
 ![Loginpage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Login_Page.png)
