@@ -9,10 +9,9 @@ Takım AI 116
 | Name | Title | Social |
 |:-------:| :-----:| :--------:|
 | <a href="https://github.com/bogusbeyza" style="text-decoration:none; color:blue;">Beyza Boğuş</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/beyza-bo%C4%9Fu%C5%9F-b87577228) |
-| <a href="https://github.com/OnurDaglar" style="text-decoration:none; color:blue;">Onur Dağlar</a> | Product Owner | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/onur-daglar-462b58252/) |
-| <a href="https://github.com/gulbahar-donmez" style="text-decoration:none; color:blue;">Gülbahar Dönmez</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/gulbahardonmez/) |
+| <a href="https://github.com/gulbahar-donmez" style="text-decoration:none; color:blue;">Gülbahar Dönmez</a> | Product Owner | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/gulbahardonmez/) |
+| <a href="https://github.com/OnurDaglar" style="text-decoration:none; color:blue;">Onur Dağlar</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/onur-daglar-462b58252/) |
 | <a href="https://github.com/BerhakTanyildizi" style="text-decoration:none; color:blue;">Berhak Tanyıldızı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/mahmut-berhak-tany%C4%B1ld%C4%B1z%C4%B1-56bb10302/) |
-| <a href="https://github.com/feyzaafrataskin" style="text-decoration:none; color:blue;">Feyza Afra Taşkın</a> | Aktif Olmayan Üye | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/feyza-afra-ta%C5%9Fk%C4%B1n-5619aa258/) |
 
 ---
 
@@ -45,7 +44,9 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 
 ## Product Backlog URL
 
-[Asana Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154)
+[Asana Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154) (Sprint 2'de Notion geçiş yapılmıştır.)  
+[Notion Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154)
+
 
 ---
 
@@ -169,6 +170,138 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
    * Duruş bozukluğu tespit edildiğinde kullanıcıyı uyaracak görsel elementlerin (örneğin, ekran çerçevesinin kırmızıya dönmesi, uyarı metni) eklenmesine karar verildi.
    * Bir önceki sprintten alınan dersle, bu sprintte görevlerin ve tamamlanma durumlarının Asana'ya günlük ve anlık olarak işlenmesine, böylece Burndown Chart'ın canlı bir şekilde takip edilmesine karar verildi.
 
+</details>
+
+
+---
+<details>
+  <summary><h1>Sprint 2</h1></summary>
+
+  ---
+
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+### Login Page
+![Loginpage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Login_Page.png)
+
+---
+### Signup Page
+![Signuppage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Sign_Up_Page.png)
+
+---
+### Home Page
+![Homepage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Home_Page.png)
+
+---
+### Analyzer Page
+![Photoanalysis](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Photo_Analysis.png)
+![Photoanalysis](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Photo_Analysis_2.png)
+![Liveanalysis](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Live_Analysis.png)
+
+---
+
+### Calibration Page
+![Calibrationpage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Calibration_Page.png)
+
+---
+
+### Dashboard Page
+![Dashboardpage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Dashboard.png)
+
+---
+
+### AboutUS Page
+![Aboutuspage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/About_Us_Page.png)
+
+---
+### Contact Page
+![Contactpage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Contact_Page.png)
+
+---
+### Profile Page
+![Profilepage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Profile_Page.png)
+
+---
+### Security Page
+![Securitypage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Security_Page.png)
+
+
+---
+### Delete Account Page
+![Deleteaccountpage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/Delete_Account_Page.png)
+
+---
+
+### 3D Model
+![3Dmode](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/3B_Model.jpeg)
+
+
+   
+</details>
+
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+    
+ ![Notion_2.1](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_pm/Notion_2.1.png)
+ ![Notion_2.2](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_pm/Notion_2.2.png)
+ ![Notion_2.3](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_pm/Notion_2.3.png)
+ ![Notion_2.4](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_pm/Notion_2.4.png) 
+</details>
+
+---
+  <details>
+    <summary><h2>Burndown Chart</h2></summary>
+
+   ![Burndown Chart](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_Burndown_Chart/Sprint_2_Burndown_Chart.png)
+
+  </details>
+
+---
+
+
+- **Sprint Notları:**
+   * Bu sprint, projenin kullanıcı deneyimini ve temel işlevselliğini bir üst seviyeye taşımaya odaklandı.
+   * Görev takibi, sprint planlaması ve proje yönetimi için ilk sprintte Asana kullanılmışken ücretlendirme politikasından dolayı _`Notion`_ aracına geçiş yapılmıştır.
+   * Günlük scrum toplantıları ve diğer ekip görüşmeleri, takımın müsaitlik durumuna göre _`Google Meet`_ ve _`Whatsapp`_   üzerinden gerçekleştirildi.
+   * Kullanıcı profilleri, fotoğraf ile analiz sonuçları, ve diğer tüm uygulama verilerinin depolanması için _`PostgreSQL`_  veritabanı kullanıldı.
+   * Anlık görüntü işleme ve performans optimizasyonları için _`C++`_ entegrasyonu yapıldı.
+   * Kullanıcıya daha etkili görsel geri bildirim sağlamak amacıyla _`Blender`_ ile 3B modelleme çalışmaları gerçekleştirildi.
+   * Kullanıcı sorularına hızlı ve doğru yanıtlar verebilmek için _`RAG`_ (Retrieval-Augmented Generation) kullanıldı.
+ 
+- **Sprint İçinde Tamamlanması Beklenen Puan:**
+  * `150`
+
+- **Puan Tamamlama Mantığı:**
+  * Toplamda `400` puanlık bir hedef belirlendi. Birinci sprintte `100` puan tamamlanmıştır. İkinci sprintte, kodların genel olarak tamamlanması istenilmiş `150` puan hedefi konulmuş ve tamamlanmıştır. Üçüncü sprintte, kullanıcı deneyimini geliştirecek ve sistemin işlevselliğini artıracak görevler için yine `150` puan hedeflenmiştir.
+  
+  **Daily Scrum:** [Sprint 2 Daily Scrum](https://github.com/gulbahar-donmez/Team-116/tree/master/Project_Management_Files/Sprint_2/Sprint_2_Daily_Scrum)
+
+- **Sprint Gözden Geçirilmesi:**
+   * Ürünün gelişmesine verdiği katkılardan dolayı Product Owner ekip kararı ile Gülbahar olarak değitirildi.
+   * Gerçek zamanlı analiz özelliği başarıyla hayata geçirildi. Ancak, kullanıcıya görsel veya sesli uyarı gönderme özelliği henüz eklenmedi. Bu sprintte, bu özelliğin geliştirilmesine odaklanılacaktır.
+   * İnsan modeli üzerinden kullanıcının duruş bozukluğu yaşadığı bölgelerin 3B model üzerinden gösterilmesi için 23 farklı bölge ayırt edildi.
+   * Kullanıcıların duruşlarını fotoğraf üzerinden analiz etme özelliği(posture_analyzer) başarıyla tamamlandı. Bu özellik, omuz üstü ve tüm vücut olarak 2 farklı analizi gerçekleştirmektedir.
+   * Kullanıcılara, analiz öncesinde nalizlerin doğruluğunu artırmak amacıyla uygulanan Kalibrasyon sayfası tasarımı tamamlandı
+   * Kullanıcı panelindeki gelişim grafiklerinin ve raporlama özelliklerinin daha detaylı hale getirilmesi kararlaştırıldı.
+   * Dark Mode ve Light Mode seçenekleri eklenerek kullanıcıya kişiselleştirilmiş bir deneyim sunuldu.
+   * Kullanıcıların sorularına daha hızlı ve doğru yanıtlar verebilmek amacıyla, RAG (Retrieval-Augmented Generation) tabanlı bir chatbot oluşturuldu.
+     
+
+- **Sprint Gözden Geçirme Katılımcıları:**
+    * `Beyza Boğuş, Gülbahar Dönmez, Onur Dağlar, Berhak Tanyıldızı`
+
+- **Sprint Retrospektifi:**
+   * Kullanıcı deneyimini artırmak için görsel ve sesli uyarı sisteminin geliştirilmesine karar verildi.(Good_Posture ve Bad_Posture)
+   * Kullanıcıya daha etkili geri bildirim sağlamak için 3B modelleme çalışmaları ile analiz sonuçları arasında entegrasyon çalışmaları yürütülecek.
+   * Canlı analiz sonuçlarının veritabanına kaydedilmesi(Live_Session) ve kullanıcıya sunulması için gerekli altyapı oluşturulacak. Bu özellik tamamlandığında, kullanıcı "Sonuçlarım" ekranından görsel ile analizde olduğu gibi canlı analiz sonuçlarını da görüntüleyip PDF rapor indirebilecektir.
+   * Uygulamanın genel performans optimizasyonu ve canlıya alma (deployment) süreçleri için son hazırlıkların yapılmasına karar verildi.
+   * Gemini
+</details>
+
+---
 
 
 
@@ -225,5 +358,9 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
   - [x] `JWT (JSON Web Tokens)`
   - [x] `Fernet`
   - [x] `Asana`
+  - [X] `Notion`
   - [x] `Google Meet`
+  - [X] `Blender`
+  - [X] `C++`
+  - [X] `RAG (Retrieval-Augmented Generation)`
 </details>
