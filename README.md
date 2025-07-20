@@ -8,7 +8,7 @@ Takım AI 116
 
 | Name | Title | Social |
 |:-------:| :-----:| :--------:|
-| <a href="https://github.com/bogusbeyza" style="text-decoration:none; color:blue;">Beyza Boğuş</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/beyza-bo%C4%9Fu%C5%9F-b87577228) |
+| <a href="https://github.com/bogusbeyza" style="text-decoration:none; color:blue;">Beyza Boğuş</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/beyzabogus/) |
 | <a href="https://github.com/gulbahar-donmez" style="text-decoration:none; color:blue;">Gülbahar Dönmez</a> | Product Owner | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/gulbahardonmez/) |
 | <a href="https://github.com/OnurDaglar" style="text-decoration:none; color:blue;">Onur Dağlar</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/onur-daglar-462b58252/) |
 | <a href="https://github.com/BerhakTanyildizi" style="text-decoration:none; color:blue;">Berhak Tanyıldızı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/mahmut-berhak-tany%C4%B1ld%C4%B1z%C4%B1-56bb10302/) |
