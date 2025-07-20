@@ -211,7 +211,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 
 ---
 
-### AboutUS Page
+### About Us Page
 ![Aboutuspage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_2/Sprint_2_App_SS/About_Us_Page.png)
 
 ---
