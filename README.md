@@ -17,7 +17,8 @@ Takım AI 116
 ### Uygulama Erişim Linki
   http://34.173.46.223/
 * Tarayıcının kameraya erişim izni olmadığını veya HTTPS bağlantısı olmayan bir sitede çalıştığınızı gösteriyor.
-* Modern tarayıcılar, güvenlik nedeniyle sadece HTTPS üzerinden veya localhost'ta kamera erişimine izin verir
+* Modern tarayıcılar, güvenlik nedeniyle sadece HTTPS üzerinden veya localhost'ta kamera erişimine izin verir.
+* Local'de çalışacak versiyon için main branch'i ziyaret edebilirsiniz.
 
 ### Ürün Açıklaması
 
@@ -509,7 +510,6 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 
 ![Endnotes](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Github_Pages/EndNotes.png)
-
 
 
 
