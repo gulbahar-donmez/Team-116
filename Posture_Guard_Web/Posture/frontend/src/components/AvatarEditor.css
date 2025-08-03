@@ -1,0 +1,326 @@
+.avatar-editor {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  max-width: 1400px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.avatar-main {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  min-height: 600px;
+}
+
+.avatar-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 3rem;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  position: sticky;
+  top: 20px;
+  min-width: 350px;
+  flex-shrink: 0;
+  height: fit-content;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.avatar-display {
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 50%;
+  border: 6px solid #ffffff;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+  background: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.avatar-display:hover {
+  transform: scale(1.05);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.randomize-btn {
+  background: linear-gradient(45deg, #ff6b6b, #feca57);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.randomize-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.avatar-controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  flex: 1;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.control-section {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1.5rem;
+  border-radius: 15px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(5px);
+  transition: all 0.3s ease;
+}
+
+.control-section:hover {
+  background: rgba(255, 255, 255, 0.95);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.control-section h4 {
+  margin: 0 0 1rem 0;
+  color: #495057;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.control-group {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.control-btn {
+  background: #ffffff;
+  border: 2px solid #dee2e6;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #495057;
+}
+
+.control-btn:hover {
+  border-color: #007bff;
+  background: #f8f9ff;
+}
+
+.control-btn.active {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.color-palette {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.color-btn {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #dee2e6;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.color-btn:hover {
+  transform: scale(1.1);
+  border-color: #007bff;
+}
+
+.color-btn.active {
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.3);
+}
+
+.color-btn.active::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+
+@media (max-width: 768px) {
+  .avatar-editor {
+    padding: 1rem;
+  }
+  
+  .avatar-main {
+    flex-direction: column;
+    min-height: auto;
+  }
+  
+  .avatar-preview {
+    min-width: auto;
+    width: 100%;
+    position: relative;
+    top: auto;
+  }
+  
+  .avatar-controls {
+    grid-template-columns: 1fr;
+    max-height: none;
+    overflow-y: visible;
+  }
+  
+  .control-group {
+    justify-content: center;
+  }
+  
+  .color-palette {
+    justify-content: center;
+  }
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.avatar-editor {
+  animation: fadeIn 0.5s ease-out;
+}
+
+.control-section {
+  animation: fadeIn 0.5s ease-out;
+  animation-delay: 0.1s;
+  animation-fill-mode: both;
+}
+
+.control-section:nth-child(2) { animation-delay: 0.2s; }
+.control-section:nth-child(3) { animation-delay: 0.3s; }
+.control-section:nth-child(4) { animation-delay: 0.4s; }
+.control-section:nth-child(5) { animation-delay: 0.5s; }
+.control-section:nth-child(6) { animation-delay: 0.6s; }
+.control-section:nth-child(7) { animation-delay: 0.7s; }
+.control-section:nth-child(8) { animation-delay: 0.8s; }
+.control-section:nth-child(9) { animation-delay: 0.9s; }
+.control-section:nth-child(10) { animation-delay: 1s; }
+.control-section:nth-child(11) { animation-delay: 1.1s; }
+.control-section:nth-child(12) { animation-delay: 1.2s; }
+.randomize-icon {
+  margin-right: 8px;
+  font-size: 1.1rem;
+  vertical-align: middle;
+  animation: rotate 2s linear infinite;
+}
+
+.section-icon {
+  margin-right: 8px;
+  font-size: 1rem;
+  vertical-align: middle;
+  color: #667eea;
+}
+
+.style-icon {
+  font-size: 1.2rem;
+  vertical-align: middle;
+  color: #495057;
+  transition: all 0.2s ease;
+}
+
+.style-icon.small {
+  font-size: 1rem;
+}
+
+.style-icon.large {
+  font-size: 1.4rem;
+}
+
+.style-icon.thick {
+  font-weight: bold;
+  color: #343a40;
+}
+
+.style-icon.mohawk {
+  color: #e74c3c;
+}
+
+.style-icon.long {
+  color: #f39c12;
+}
+
+.style-icon.short {
+  color: #3498db;
+}
+
+.style-icon.happy {
+  color: #2ecc71;
+}
+
+.style-icon.sad {
+  color: #95a5a6;
+}
+
+.control-btn:hover .style-icon {
+  transform: scale(1.1);
+  color: #007bff;
+}
+
+.control-btn.active .style-icon {
+  color: white;
+}
+
+.randomize-btn:hover .randomize-icon {
+  animation-duration: 0.5s;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .section-icon {
+    color: #a78bfa;
+  }
+  
+  .style-icon {
+    color: #e5e7eb;
+  }
+  
+  .control-btn:hover .style-icon {
+    color: #60a5fa;
+  }
+}

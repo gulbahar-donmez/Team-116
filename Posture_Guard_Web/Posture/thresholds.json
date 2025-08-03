@@ -1,0 +1,26 @@
+{
+    "ATLETIK": {
+      "excellent": 165,
+      "good": 155,
+      "fair": 145,
+      "neck": 35
+    },
+    "GÜÇLÜ": {
+      "excellent": 168,
+      "good": 158,
+      "fair": 148,
+      "neck": 37
+    },
+    "NORMAL": {
+      "excellent": 170,
+      "good": 160,
+      "fair": 150,
+      "neck": 40
+    },
+    "INCE": {
+      "excellent": 172,
+      "good": 162,
+      "fair": 152,
+      "neck": 42
+    }
+  }

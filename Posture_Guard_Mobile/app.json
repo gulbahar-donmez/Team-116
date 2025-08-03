@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "PostureGuard Mobile",
+    "slug": "posture-guard-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "orientation": "portrait",
+    "scheme": "postureguard",
+
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a1a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.postureguard.mobile"
+    },
+    "android": {
+      "package": "com.postureguard.mobile",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow PostureGuard to access your camera for posture analysis."
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow PostureGuard to access your photos.",
+          "savePhotosPermission": "Allow PostureGuard to save photos."
+        }
+      ],
+      "expo-secure-store"
+    ]
+  }
+}

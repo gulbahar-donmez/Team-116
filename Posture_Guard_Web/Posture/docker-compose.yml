@@ -1,0 +1,62 @@
+services:
+  backend:
+    build: .
+    container_name: postureguard_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    env_file:
+      - ./.env
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - postureguard-net
+
+  db:
+    image: postgres:13
+    container_name: postureguard_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    env_file:
+      - ./.env
+    networks:
+      - postureguard-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:alpine
+    container_name: postureguard_redis
+    networks:
+      - postureguard-net
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  frontend:
+    image: nginx:alpine
+    container_name: postureguard_frontend
+    ports:
+      - "80:80"
+    volumes:
+      - ./frontend/build:/usr/share/nginx/html
+    depends_on:
+      - backend
+    networks:
+      - postureguard-net
+
+volumes:
+  postgres_data:
+
+networks:
+  postureguard-net:
+    driver: bridge

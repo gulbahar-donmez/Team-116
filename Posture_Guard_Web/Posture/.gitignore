@@ -1,0 +1,16 @@
+*.dll
+*.lib
+*.pyd
+*.pt
+*.pkl
+*.h5
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.log
+secret.key
+frontend/node_modules/
+.DS_Store
+Thumbs.db
+.idea/

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "bogusbeyza ",
+    "email": "bbogusbeyza@gmail.com",
+    "message": "test",
+    "timestamp": "2025-07-31T19:59:32.171856",
+    "id": 1
+  },
+  {
+    "name": "bogusbeyza ",
+    "email": "bbogusbeyza@gmail.com",
+    "message": "merhaba\n",
+    "timestamp": "2025-07-31T23:33:30.868436",
+    "id": 2
+  },
+  {
+    "name": "bogusbeyza ",
+    "email": "bbogusbeyza@gmail.com",
+    "message": "merhaba2",
+    "timestamp": "2025-07-31T23:44:42.729258",
+    "id": 3
+  }
+]
