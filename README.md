@@ -14,17 +14,37 @@ Takım AI 116
 | <a href="https://github.com/BerhakTanyildizi" style="text-decoration:none; color:blue;">Berhak Tanyıldızı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/mahmut-berhak-tany%C4%B1ld%C4%B1z%C4%B1-56bb10302/) |
 
 ---
-
 ### Ürün Açıklaması
 
 **Ürün İsmi:** PostureGuard
 
-**Problem:** Uzaktan çalışma ve dijital yaşamın artmasıyla birlikte milyonlarca insan, farkında olmadan edindikleri duruş bozuklukları nedeniyle kronik ağrılar ve sağlık sorunları riskiyle karşı karşıya. Bu sorun genellikle yavaş yavaş geliştiği için anlık olarak fark edilmesi ve düzeltilmesi zordur. Kullanıcılar, işe odaklandıkları sırada duruşlarının bozulduğunu o an için fark etmezler. Telefon alarmları veya standart hatırlatıcılar, kullanıcının gerçek duruşundan bağımsız olduğu için kolayca göz ardı edilir ve bir süre sonra "gürültü" haline gelir.
+**Problem:** Uzaktan çalışma ve dijital yaşamın artmasıyla birlikte milyonlarca insan, farkında olmadan edindikleri duruş bozuklukları nedeniyle kronik ağrılar ve sağlık sorunları riskiyle karşı karşıya. Bu sorun genellikle yavaş yavaş geliştiği için anlık olarak fark edilmesi ve düzeltilmesi zordur. Standart hatırlatıcılar, kullanıcının gerçek duruşundan bağımsız olduğu için kolayca göz ardı edilir ve bir süre sonra "gürültü" haline gelir.
+
+**Çözüm:** PostureGuard, bu probleme modern bir çözüm sunar. Kullanıcının mevcut web kamerasını kullanarak, yapay zeka destekli iskelet takibi ile duruşunu gerçek zamanlı olarak analiz eder. Başın öne eğilmesi veya omuzların düşmesi gibi ergonomik hataları anında tespit ederek kullanıcıyı nazik, görsel ve işitsel uyarılarla bilgilendirir. Amacımız teşhis koymak değil, proaktif bir yaklaşımla sağlıklı duruş alışkanlıkları kazandırmaktır.
 
 <details>
 <summary><h2>Ürün Özellikleri</h2></summary>
 <br>
-"PostureGuard", kullanıcının web kamerasını kullanarak gerçek zamanlı olarak duruşunu analiz eden bir web uygulamasıdır. Yapay zekâ destekli iskelet takibi ile başın öne eğilmesi, omuzların düşmesi gibi yaygın ergonomik hataları anında tespit eder ve kullanıcıyı nazik, görsel uyarılarla bilgilendirerek anında düzeltme yapmasını sağlar. Amacımız teşhis koymak değil, sağlıklı duruş alışkanlıkları kazandırmaktır. Kullanıcı verileri güvenli bir şekilde saklanarak kişiye özel duruş analizi raporları ve egzersiz programları sunulmaktadır.
+
+**Gerçek Zamanlı Analiz ve Geri Bildirim:**
+*   **Webcam ile Anlık Analiz:** Ek bir donanıma ihtiyaç duymadan, standart web kamerası üzerinden duruş analizi.
+*   **Anlık Uyarı Sistemi:** `bad_posture` durumunda görsel ve işitsel bildirimler, `good_posture` durumunda ise bu uyarıların normale dönmesi.
+*   **3B Model ile Görselleştirme:** Analiz sonuçlarının ve riskli bölgelerin 3 boyutlu insan modeli üzerinde dinamik olarak (kırmızı/sarı/yeşil) gösterilmesi.
+
+**Yapay Zeka ve Raporlama:**
+*   **AI Destekli Kişiselleştirilmiş Öneriler:** Gemini AI entegrasyonu ile canlı analiz sırasında ve raporlarda kişiye özel duruş önerileri.
+*   **Detaylı PDF Raporları:** Tamamlanan canlı analiz ve fotoğraf ile analiz oturumları için indirilebilir PDF raporları.
+*   **Akıllı Chatbot (PostureGuide):** RAG mimarisi ile desteklenen, sesli komutla kullanılabilen ve kullanıcının sorularına anlık yanıtlar veren chatbot.
+
+**Kullanıcı Deneyimi ve Kişiselleştirme:**
+*   **Kullanıcı Profili ve İlerleme Takibi:** Kullanıcıların geçmiş analiz sonuçlarını ve gelişim grafiklerini takip edebildiği kişisel panel.
+*   **Kişiselleştirilebilir Avatarlar:** `react-nice-avatar` kütüphanesi ile kullanıcıların kendi avatarlarını oluşturabilmesi.
+*   **Açık ve Koyu Mod Desteği:** Kullanıcı tercihine göre değiştirilebilen arayüz teması.
+
+**Platform ve Erişilebilirlik:**
+*   **Tam Fonksiyonlu Mobil Uygulama:** React Native ile geliştirilmiş, web platformundaki tüm özelliklere sahip iOS ve Android uygulaması.
+*   **Güvenli Kimlik Doğrulama:** E-posta/şifre ile kayıt ve Google (OAuth 2.0) ile güvenli giriş seçenekleri.
+
 
 **Sıkça Sorulan Sorular:** [SSS](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/SSS.pdf)
 </details>
