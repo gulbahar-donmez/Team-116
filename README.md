@@ -353,33 +353,35 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
   ---
 
 <details>
-    <summary><h2>Web Screenshots</h2></summary>
+    <summary><h2>Web & Mobile Screenshots</h2></summary>
 
-### Authentication Pages
+### Web Application Screenshots
+
+#### Authentication Pages
 ![Login Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Login_Page.png?raw=true)
 ![Signup Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Sign_Up_Page.png?raw=true)
 ![Forgot Password Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Forgot_Password_Page.png?raw=true)
 ![Google Auth](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Google_Auth.png?raw=true)
 
 ---
-### Home Page
+#### Home Page
 ![Homepage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Home_Page.png?raw=true)
 
 ---
-### Analysis Pages
+#### Analysis Pages
 ![Photo Analysis Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Photo_Analysis.png?raw=true)
 ![Live Analysis Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Live_Analysis.png?raw=true)
 ![Calibration Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Calibration_Page.png?raw=true)
 
 ---
 
-### Dashboard & Results
+#### Dashboard & Results
 ![Dashboard Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Dashboard.png?raw=true)
 ![3D Model Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/3D_Model.png?raw=true)
 
 ---
 
-### Chatbot (PostureGuide)
+#### Chatbot (PostureGuide)
 ![Chatbot Main](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot.png?raw=true)
 ![Chatbot Guide](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Guide.png?raw=true)
 ![Chatbot Analysis](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Analys.png?raw=true)
@@ -387,23 +389,51 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 ---
 
-### Profile & Account Settings
+#### Profile & Account Settings
 ![Account Settings Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Account_Settings_Page.png?raw=true)
 ![Avatar Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Avatar_Page.png?raw=true)
 ![Delete Account Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Delete_Account_Page.png?raw=true)
 
 ---
 
-### Static Pages
+#### Static Pages
 ![About Us Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/About_Us_Page.png?raw=true)
+
+---
+
+### Mobile Application Screenshots
+
+#### Home & Dashboard
+![App Home Dark](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Home_Dark.jpeg?raw=true)
+![App Home Light](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Home_Light.jpeg?raw=true)
+![App Dashboard](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Dashboard.jpeg?raw=true)
+
+---
+#### Analysis & Results
+![App Dark Upload](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Dark_Upload.jpeg?raw=true)
+![App Light Upload](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Light_Upload.jpeg?raw=true)
+![App Result](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Result.jpeg?raw=true)
+![App Graph](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Graph.jpeg?raw=true)
+![App Analysis History](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Analysis_History.jpeg?raw=true)
+![App Analysis History Light](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Analysis_History_Light.jpeg?raw=true)
+
+---
+#### Profile & Settings
+![App Profile](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Profile.jpeg?raw=true)
+![App Profile Setting](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Profile_Setting.jpeg?raw=true)
+![App Settings](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Settings.jpeg?raw=true)
+![App Change Password](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Change_Password.jpeg?raw=true)
+![App Log Out](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Log_Out.jpeg?raw=true)
 
 ---
 
 ### PDF Report Example
 [Download Example PDF Report](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/durusanalizi_raporu_2025-08-03.pdf)
+
+---
    
 </details>
-
+</details>
 ---
 
 <details>
