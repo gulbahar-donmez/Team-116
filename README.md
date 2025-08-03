@@ -401,11 +401,9 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 ### PDF Report Example
 [Download Example PDF Report](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/durusanalizi_raporu_2025-08-03.pdf)
-
----
    
 </details>
-</details>
+
 ---
 
 <details>
@@ -470,11 +468,9 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 </details>
 
----
-
-
 
 </details>
+
 
 
 ![Endnotes](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Github_Pages/EndNotes.png)
