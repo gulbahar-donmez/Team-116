@@ -42,7 +42,7 @@ Takım AI 116
 *   **Açık ve Koyu Mod Desteği:** Kullanıcı tercihine göre değiştirilebilen arayüz teması.
 
 **Platform ve Erişilebilirlik:**
-*   **Tam Fonksiyonlu Mobil Uygulama:** React Native ile geliştirilmiş, web platformundaki tüm özelliklere sahip iOS ve Android uygulaması.
+*   **Tam Fonksiyonlu Mobil Uygulama:** React Native ile geliştirilecek olan, web platformundaki tüm özelliklere sahip iOS ve Android uygulaması.
 *   **Güvenli Kimlik Doğrulama:** E-posta/şifre ile kayıt ve Google (OAuth 2.0) ile güvenli giriş seçenekleri.
 
 
@@ -62,6 +62,30 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 **Persona Dosyası:** [Personalar](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Personalar.pdf) 
 </details>
 
+<details>
+<summary><h2>Proje Dokümantasyonu</h2></summary>
+<br>
+
+Bu bölümde, projenin temelini oluşturan ve teknik yapısını açıklayan ana dokümanları bulabilirsiniz.
+
+*   **Proje Tüzüğü:** Projenin vizyonunu, hedeflerini, kapsamını ve çıktılarını tanımlayan temel belge.
+    *   [Proje Tüzüğü PDF'ini Görüntüle](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Posture_Guard_Project_Charter.pdf)
+
+</details>
+
+---- 
+
+<details>
+<summary><h2>Teknik Yapı ve Mimari</h2></summary>
+<br>
+
+Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmiştir. Backend ve frontend arasındaki veri akışını ve API yapısını aşağıdaki dokümanda bulabilirsiniz.
+
+*   [Endpoint Akışı PDF'ini Görüntüle](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Posture%20Guard%20Endpoint%20Akışı.pdf)
+
+**Kullanılan Teknolojiler:** React, Node.js, Python, PostgreSQL, Docker, Nginx, vb.
+
+</details>
 ## Product Backlog URL
 
 [Asana Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154) (Sprint 2'de Notion geçiş yapılmıştır.)  
@@ -319,6 +343,130 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
    * Canlı analiz sonuçlarının veritabanına kaydedilmesi(Live_Session) ve kullanıcıya sunulması için gerekli altyapı oluşturulacak. Bu özellik tamamlandığında, kullanıcı "Sonuçlarım" ekranından görsel ile analizde olduğu gibi canlı analiz sonuçlarını da görüntüleyip PDF rapor indirebilecektir.
    * RAG mimarisi ile kurulan chatbot'un entegrasyon çalışmaları yürütülecektir.
    * Uygulamanın genel performans optimizasyonu ve canlıya alma (deployment) süreçleri için son hazırlıkların yapılmasına karar verildi.
+
+</details>
+
+---
+<details>
+  <summary><h1>Sprint 3</h1></summary>
+
+  ---
+
+<details>
+    <summary><h2>Web Screenshots</h2></summary>
+
+### Authentication Pages
+![Login Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Login_Page.png?raw=true)
+![Signup Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Sign_Up_Page.png?raw=true)
+![Forgot Password Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Forgot_Password_Page.png?raw=true)
+![Google Auth](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Google_Auth.png?raw=true)
+
+---
+### Home Page
+![Homepage](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Home_Page.png?raw=true)
+
+---
+### Analysis Pages
+![Photo Analysis Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Photo_Analysis.png?raw=true)
+![Live Analysis Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Live_Analysis.png?raw=true)
+![Calibration Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Calibration_Page.png?raw=true)
+
+---
+
+### Dashboard & Results
+![Dashboard Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Dashboard.png?raw=true)
+![3D Model Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/3D_Model.png?raw=true)
+
+---
+
+### Chatbot (PostureGuide)
+![Chatbot Main](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot.png?raw=true)
+![Chatbot Guide](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Guide.png?raw=true)
+![Chatbot Analysis](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Analys.png?raw=true)
+![Chatbot Ended Chat](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Ended_Chat.png?raw=true)
+
+---
+
+### Profile & Account Settings
+![Account Settings Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Account_Settings_Page.png?raw=true)
+![Avatar Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Avatar_Page.png?raw=true)
+![Delete Account Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Delete_Account_Page.png?raw=true)
+
+---
+
+### Static Pages
+![About Us Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/About_Us_Page.png?raw=true)
+
+---
+
+### PDF Report Example
+[Download Example PDF Report](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/durusanalizi_raporu_2025-08-03.pdf)
+
+---
+   
+</details>
+</details>
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+    
+ ![Notion_3.1](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.1.png?raw=true)
+ ![Notion_3.2](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.2.png?raw=true)
+ ![Notion_3.3](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.3.png?raw=true)
+ ![Notion_3.4](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.4.png?raw=true)
+ ![Notion_3.5](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.5.png?raw=true)
+ 
+</details>
+
+---
+  <details>
+    <summary><h2>Burndown Chart</h2></summary>
+
+   ![Burndown Chart](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_Burndown_Chart/Sprint_3_Burndown_Chart.png)
+
+  </details>
+
+---
+
+
+- **Sprint Notları:**
+   * Bu son sprint, PostureGuard projesinin tüm geliştirme süreçlerini tamamlayarak ürünü teslimata hazır hale getirmeye odaklandı. 
+   * Sprint'in ana hedefleri; canlı analiz, yapay zeka ve 3B modelleme gibi temel özellikleri mükemmelleştirmek, platformun web ve mobil versiyonlarını tamamlamak ve stabil bir şekilde canlıya almaktı.
+   * Görev takibi, sprint planlaması ve proje yönetimi için _`Notion`_ aracı kullanılmmıştır.
+   * Günlük scrum toplantıları ve diğer ekip görüşmeleri, takımın müsaitlik durumuna göre _`Google Meet`_ ve _`Whatsapp`_   üzerinden gerçekleştirildi.
+   * Kullanıcıya daha etkili görsel geri bildirim sağlamak amacıyla _`Blender`_ ile hazırlanan 3B modellerin, web arayüzünde _`Three.js`_ kütüphanesi kullanılarak dinamik olarak render edilmesi sağlandı.
+   Kullanıcı sorularına akıllı yanıtlar verebilmek için, _`Gemini 1.5`_ Flash modeli ve embedding teknikleri temel alınarak bir _`RAG`_ (Retrieval-Augmented Generation) mimarisi kuruldu ve _`Gemini API`_ üzerinden entegre edildi.
+   * Kullanıcılara tek tıkla ve güvenli bir giriş deneyimi sunmak amacıyla Google ile Giriş _`(Google OAuth 2.0)`_ entegrasyonu başarıyla tamamlandı.
+ 
+- **Sprint İçinde Tamamlanması Beklenen Puan:**
+  * `158`
+
+- **Puan Tamamlama Mantığı:**
+  * Toplamda `400` puanlık bir hedef belirlendi. Birinci sprintte `100`, ikinci sprintte `150` puanlık hedefler başarıyla tamamlanmıştır. Üçüncü sprint için başlangıçta, web platformunun canlı analiz, yapay zeka ve 3B modelleme gibi kritik özelliklerini tamamlamaya yönelik `150` puanlık bir hedef belirlenmişti. Ancak, sprint esnasında alınan stratejik bir kararla, başlangıçta planlanmayan mobil uygulama geliştirme çalışmaları da kapsama dahil edilmiştir. Bu önemli ekleme, sprintin iş yükünü ve projenin nihai değerini doğal olarak artırmış, bu nedenle sprintin puan hedefi `150`'den `158`'e güncellenmiştir. Bu nihai `158` puan, projenin sadece başlangıç hedeflerini tamamlamakla kalmayıp, mobil uygulama ile kapsamını genişleterek ulaştığı olgunluk seviyesinin ve başarısının bir göstergesidir.
+  
+  
+  **Daily Scrum:** [Sprint 3 Daily Scrum](https://github.com/gulbahar-donmez/Team-116/tree/master/Project_Management_Files/Sprint_3/Sprint_3_Daily_Scrum)
+
+- **Sprint Gözden Geçirilmesi:**
+   * Oturum boyunca duruş skorunu gösteren gerçek zamanlı bir grafik başarıyla eklendi. Tamamlanan canlı analiz oturumları için detaylı PDF raporu oluşturan sistem geliştirildi.
+   * Duruş bozukluğu (bad_posture) ve düzelme (good_posture) durumlarında WebSocket üzerinden anlık görsel ve işitsel (ses seviyesi ayarlanabilir) bildirimler gönderen sistem hayata geçirildi.
+   * Canlı analiz sırasında ve PDF raporlarında gösterilecek AI tabanlı kişiselleştirilmiş öneriler geliştirildi. Chatbot arayüzü (ChatbotWidget.js) modernize edildi ve sesli komutla mesaj gönderme (Speech-to-Text) fonksiyonu eklendi.
+   * App.js ve LoginPage.js dosyaları üzerinde yapılan çalışmalarla Google OAuth 2.0 entegrasyonu tamamlandı. 
+   * React Native ile geliştirilecek mobil uygulama, web platformundaki tüm özelliklerle birlikte başarıyla tamamlanması ve teslim edilmesi için gerekli temeller atılmıştır.
+   * Analiz sonuçları sayfasında 3B insan modeli entegrasyonu ve risk faktörlerine göre model üzerinde dinamik renklendirme (kırmızı/sarı/yeşil) başarıyla gerçekleştirildi. 
+   * react-nice-avatar ile kişiselleştirilebilir avatar sistemi tamamlandı.
+   * API güvenliği için hız sınırlama (Rate Limiting) mekanizması eklendi. 
+   * JWT token yönetimi ve yetkisiz erişim denemelerine karşı güvenlik testleri yapıldı.
+   * Production ortamı için Docker desteği (Dockerfile, docker-compose.yml), environment yönetimi (.env dosyaları) ve CORS yapılandırması tamamlandı. Sunucu port yönetimi ve reverse proxy (Nginx) planlaması yapıldı.
+     
+
+- **Sprint Gözden Geçirme Katılımcıları:**
+    * `Beyza Boğuş, Gülbahar Dönmez, Onur Dağlar, Berhak Tanyıldızı`
+
+- **Sprint Retrospektifi:**
+   * Ekip, başlangıç hedeflerinin ötesine geçerek hem kapsamlı bir web platformu hem de tam fonksiyonlu bir mobil uygulamayı başarıyla teslim etmiştir. Karmaşık teknolojilerin (AI, 3D, Real-time Analysis) entegrasyonu sorunsuz bir şekilde tamamlanmıştır.
+   * Projenin tamamlanması, tüm ekibin bir araya gelerek ürünün tanıtım videosunu izlediği bir toplantıyla kutlanmış; bu başarı, gelecekteki potansiyel adımlar üzerine yapılan bir fikir alışverişiyle taçlandırılmıştır.
 
 </details>
 
