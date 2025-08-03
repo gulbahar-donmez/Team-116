@@ -73,7 +73,6 @@ Bu bölümde, projenin temelini oluşturan ve teknik yapısını açıklayan ana
 
 </details>
 
----- 
 
 <details>
 <summary><h2>Teknik Yapı ve Mimari</h2></summary>
@@ -86,6 +85,7 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 **Kullanılan Teknolojiler:** React, Node.js, Python, PostgreSQL, Docker, Nginx, vb.
 
 </details>
+
 ## Product Backlog URL
 
 [Asana Backlog Board](https://app.asana.com/1/1210679212645128/project/1210679513423891/list/1210679225424154) (Sprint 2'de Notion geçiş yapılmıştır.)  
