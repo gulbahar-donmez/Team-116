@@ -17,7 +17,8 @@ Takım AI 116
 ### Uygulama Erişim Linki
   http://34.173.46.223/
 * Tarayıcının kameraya erişim izni olmadığını veya HTTPS bağlantısı olmayan bir sitede çalıştığınızı gösteriyor.
-* Modern tarayıcılar, güvenlik nedeniyle sadece HTTPS üzerinden veya localhost'ta kamera erişimine izin verir
+* Modern tarayıcılar, güvenlik nedeniyle sadece HTTPS üzerinden veya localhost'ta kamera erişimine izin verir.
+* Local'de çalışacak versiyon için main branch'i ziyaret edebilirsiniz.
 
 ### Ürün Açıklaması
 
@@ -364,8 +365,17 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 #### Authentication Pages
 ![Login Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Login_Page.png?raw=true)
+
+---
+#### Signup Page
 ![Signup Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Sign_Up_Page.png?raw=true)
+
+---
+#### Forgot Password Page
 ![Forgot Password Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Forgot_Password_Page.png?raw=true)
+
+---
+#### Google Auth
 ![Google Auth](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Google_Auth.png?raw=true)
 
 ---
@@ -375,32 +385,45 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 ---
 #### Analysis Pages
 ![Photo Analysis Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Photo_Analysis.png?raw=true)
+
+---
 ![Live Analysis Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Live_Analysis.png?raw=true)
+
+---
+#### Calibration Page
 ![Calibration Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Calibration_Page.png?raw=true)
 
 ---
-
 #### Dashboard & Results
 ![Dashboard Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Dashboard.png?raw=true)
+
+---
 ![3D Model Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/3D_Model.png?raw=true)
 
 ---
-
 #### Chatbot (PostureGuide)
 ![Chatbot Main](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot.png?raw=true)
+
+---
 ![Chatbot Guide](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Guide.png?raw=true)
+
+---
 ![Chatbot Analysis](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Analys.png?raw=true)
+
+---
 ![Chatbot Ended Chat](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Chatbot_Ended_Chat.png?raw=true)
 
 ---
-
 #### Profile & Account Settings
 ![Account Settings Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Account_Settings_Page.png?raw=true)
+
+---
 ![Avatar Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Avatar_Page.png?raw=true)
+
+---
 ![Delete Account Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/Delete_Account_Page.png?raw=true)
 
 ---
-
 #### Static Pages
 ![About Us Page](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/About_Us_Page.png?raw=true)
 
@@ -410,24 +433,46 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 #### Home & Dashboard
 ![App Home Dark](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Home_Dark.jpeg?raw=true)
+
+---
 ![App Home Light](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Home_Light.jpeg?raw=true)
+
+---
 ![App Dashboard](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Dashboard.jpeg?raw=true)
 
 ---
 #### Analysis & Results
 ![App Dark Upload](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Dark_Upload.jpeg?raw=true)
+
+---
 ![App Light Upload](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Light_Upload.jpeg?raw=true)
+
+---
 ![App Result](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Result.jpeg?raw=true)
+
+---
 ![App Graph](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Graph.jpeg?raw=true)
+
+---
 ![App Analysis History](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Analysis_History.jpeg?raw=true)
+
+---
 ![App Analysis History Light](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Analysis_History_Light.jpeg?raw=true)
 
 ---
 #### Profile & Settings
 ![App Profile](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Profile.jpeg?raw=true)
+
+---
 ![App Profile Setting](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Profile_Setting.jpeg?raw=true)
+
+---
 ![App Settings](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Settings.jpeg?raw=true)
+
+---
 ![App Change Password](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Change_Password.jpeg?raw=true)
+
+---
 ![App Log Out](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_App_SS/App_Log_Out.jpeg?raw=true)
 
 ---
@@ -438,16 +483,24 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 ---
    
 </details>
-</details>
+
 ---
 
 <details>
   <summary><h2>Project Management</h2></summary>
     
  ![Notion_3.1](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.1.png?raw=true)
+
+---
  ![Notion_3.2](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.2.png?raw=true)
+
+---
  ![Notion_3.3](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.3.png?raw=true)
+
+---
  ![Notion_3.4](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.4.png?raw=true)
+
+---
  ![Notion_3.5](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/Sprint_3/Sprint_3_pm/Notion_3.5.png?raw=true)
  
 </details>
@@ -465,11 +518,12 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 - **Sprint Notları:**
    * Bu son sprint, PostureGuard projesinin tüm geliştirme süreçlerini tamamlayarak ürünü teslimata hazır hale getirmeye odaklandı. 
-   * Sprint'in ana hedefleri; canlı analiz, yapay zeka ve 3B modelleme gibi temel özellikleri mükemmelleştirmek, platformun web ve mobil versiyonlarını tamamlamak ve stabil bir şekilde canlıya almaktı.
+   * Sprint'in ana hedefleri; canlı analiz, yapay zeka ve 3B modelleme gibi temel özellikleri mükemmelleştirmek, platformun web ve _`React Native`_ ile geliştirilen mobil versiyonlarını tamamlamak ve stabil bir şekilde canlıya almaktı.
    * Görev takibi, sprint planlaması ve proje yönetimi için _`Notion`_ aracı kullanılmmıştır.
    * Günlük scrum toplantıları ve diğer ekip görüşmeleri, takımın müsaitlik durumuna göre _`Google Meet`_ ve _`Whatsapp`_   üzerinden gerçekleştirildi.
+   * Kullanıcı profilleri, fotoğraf ile analiz sonuçları ve diğer tüm uygulama verilerinin depolanması için _`PostgreSQL`_  veritabanı kullanıldı.
    * Kullanıcıya daha etkili görsel geri bildirim sağlamak amacıyla _`Blender`_ ile hazırlanan 3B modellerin, web arayüzünde _`Three.js`_ kütüphanesi kullanılarak dinamik olarak render edilmesi sağlandı.
-   Kullanıcı sorularına akıllı yanıtlar verebilmek için, _`Gemini 1.5`_ Flash modeli ve embedding teknikleri temel alınarak bir _`RAG`_ (Retrieval-Augmented Generation) mimarisi kuruldu ve _`Gemini API`_ üzerinden entegre edildi.
+   * Kullanıcı sorularına akıllı yanıtlar verebilmek için, _`Gemini 1.5 Flash`_ modeli ve embedding teknikleri temel alınarak bir _`RAG`_ (Retrieval-Augmented Generation) mimarisi kuruldu ve _`Gemini API`_ üzerinden entegre edildi.
    * Kullanıcılara tek tıkla ve güvenli bir giriş deneyimi sunmak amacıyla Google ile Giriş _`(Google OAuth 2.0)`_ entegrasyonu başarıyla tamamlandı.
  
 - **Sprint İçinde Tamamlanması Beklenen Puan:**
@@ -502,14 +556,10 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
    * Projenin tamamlanması, tüm ekibin bir araya gelerek ürünün tanıtım videosunu izlediği bir toplantıyla kutlanmış; bu başarı, gelecekteki potansiyel adımlar üzerine yapılan bir fikir alışverişiyle taçlandırılmıştır.
 
 </details>
-
-
 </details>
 
 
-
 ![Endnotes](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Github_Pages/EndNotes.png)
-
 
 
 
