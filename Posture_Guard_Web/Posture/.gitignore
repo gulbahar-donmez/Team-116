@@ -14,3 +14,5 @@ frontend/node_modules/
 .DS_Store
 Thumbs.db
 .idea/
+Posture_Guard_Web/Posture/.env
+Posture_Guard_Web/Posture/frontend/.env
