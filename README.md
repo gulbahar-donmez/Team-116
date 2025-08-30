@@ -14,11 +14,20 @@ Takım AI 116
 | <a href="https://github.com/BerhakTanyildizi" style="text-decoration:none; color:blue;">Berhak Tanyıldızı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/mahmut-berhak-tany%C4%B1ld%C4%B1z%C4%B1-56bb10302/) |
 
 ---
-### Uygulama Erişim Linki
-  http://34.173.46.223/
-* Tarayıcının kameraya erişim izni olmadığını veya HTTPS bağlantısı olmayan bir sitede çalıştığınızı gösteriyor.
-* Modern tarayıcılar, güvenlik nedeniyle sadece HTTPS üzerinden veya localhost'ta kamera erişimine izin verir.
-* Local'de çalışacak versiyon için main branch'i ziyaret edebilirsiniz.
+## Uygulama Erişim Linki
+
+**Denemek isterseniz: [PostureAnalyzer - Profesyonel Duruş Analizi](http://34.173.46.223/)**
+
+Projemizi test etmek isterseniz, şu anda **HTTPS desteği olmadığı için canlı analiz (kamera ile duruş analizi) özelliği varsayılan olarak çalışmamaktadır**.  
+Ancak, aşağıdaki adımları izleyerek bu özelliği de deneyebilirsiniz:
+
+1. Tarayıcınızda `chrome://flags/` adresine gidin.
+2. “Insecure origins treated as secure” ayarını bulun ve proje IP adresini (`http://34.173.46.223`) ekleyin.
+3. Bu adımı tamamladıktan sonra, canlı analiz özelliğini de test edebilirsiniz.
+
+> Modern tarayıcılar, güvenlik nedeniyle yalnızca HTTPS üzerinden veya localhost’ta kamera erişimine izin verir. SSL sertifikası olmadığı için Chrome, doğrudan kamera erişimi vermemektedir. Yukarıdaki adımları uygulayarak bu kısıtlamayı geçici olarak aşabilirsiniz.
+
+> **Not:** Uygulamayı kendi bilgisayarınızda çalıştırmak isterseniz, [main branch](https://github.com/gulbahar-donmez/Team-116/tree/main) üzerinden projeyi indirip local ortamınızda çalıştırabilirsiniz.
 
 ### Ürün Açıklaması
 
@@ -592,7 +601,14 @@ Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmişt
 
 </details>
 
+<details>
+  <summary><h2>Uygulama Tanıtım Videosu </h2></summary>
+  
+  [![Uygulama Tanıtım Videosu](https://img.youtube.com/vi/qqQCJRth9K0/0.jpg)](https://www.youtube.com/watch?v=qqQCJRth9K0)
 
+  Uygulamanın nasıl çalıştığını ve temel özelliklerini görmek için tanıtım ve kullanım videosunu izleyebilirsiniz.
+</details>
+  
 
 <details>
   <summary><h2>Kullanılan Teknolojiler </h2></summary>
