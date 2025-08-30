@@ -80,19 +80,15 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 <details>
 <summary><h2>Proje Dokümantasyonu</h2></summary>
 <br>
-
-Bu bölümde, projenin temelini oluşturan ve teknik yapısını açıklayan ana dokümanları bulabilirsiniz.
-
-*   **Proje Tüzüğü:** Projenin vizyonunu, hedeflerini, kapsamını ve çıktılarını tanımlayan temel belge.
-    *   [Proje Tüzüğü PDF'ini Görüntüle](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Posture_Guard_Project_Charter.pdf)
+   
+- **Proje Tüzüğü:** Projenin vizyonunu, hedeflerini, kapsamını ve çıktılarını tanımlayan temel belge.  
+  [Proje Tüzüğü PDF'ini Görüntüle](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Posture_Guard_Project_Charter.pdf)
 
 </details>
 
 
 <details>
 <summary><h2>Teknik Yapı ve Mimari</h2></summary>
-<br>
-
 Projemiz, modern ve ölçeklenebilir teknolojiler kullanılarak geliştirilmiştir. Backend ve frontend arasındaki veri akışını ve API yapısını aşağıdaki dokümanda bulabilirsiniz.
 
 *   [Endpoint Akışı PDF'ini Görüntüle](https://github.com/gulbahar-donmez/Team-116/blob/master/Project_Management_Files/General_Documents/Posture%20Guard%20Endpoint%20Akışı.pdf)
